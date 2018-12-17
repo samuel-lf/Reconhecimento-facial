@@ -21,7 +21,7 @@ Sistema de reconhecimento facial utilizando OpenCV e Python. Esse sistema é cap
 
 Esse módulo é responsável por realizar a captura da imagem de sua webcam, ao iniciar o modulo ele irá soliciar um id pela qual a pessoa será identificada e após isso será aberta a janela para captura das imagens. A captura das imagens pode ser efetuada apertando a tecla 'Q'.
 
-- Repare que haverá uma pasta vazia com o nome de "fotos", essa pasta irá conter todas as imagens capturada pelo modo
+- Repare que haverá uma pasta vazia com o nome de "fotos", essa pasta irá conter todas as imagens capturada pelo módulo de captura
 
 #### Módulo de treinamento (treinamento.py)
 
